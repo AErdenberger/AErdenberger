@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 my name is Alex!
 
-<!--
-**AErdenberger/AErdenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my first video game!
+- 🌱 I’m currently learning Unity/C#
+- 💬 Ask me about anything!
+- 😄 Pronouns: He/Him or They/Them
+- ⚡ Fun fact: I performed my Trombone Impression at 2 professional venues!
 
-Here are some ideas to get you started:
+Languages and Tools:
+- Javascript
+- Java
+- C#
+- Ruby
+- CSS
+- Ruby on Rails
+- Mongo DB
+- AWS
+- Nodejs
+- Webpack
+- Express
+- AJAX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's where you can find me!
+- https://www.linkedin.com/in/alex-erdenberger-36274b88/
+- https://wellfound.com/u/alexander-erdenberger
