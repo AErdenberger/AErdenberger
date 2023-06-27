@@ -12,6 +12,8 @@ Languages and Tools:
 - C#
 - Ruby
 - CSS
+- SQL
+
 - Ruby on Rails
 - Mongo DB
 - AWS
@@ -19,6 +21,7 @@ Languages and Tools:
 - Webpack
 - Express
 - AJAX
+- React/Redux
 
 Here's where you can find me!
 - https://www.linkedin.com/in/alex-erdenberger-36274b88/
