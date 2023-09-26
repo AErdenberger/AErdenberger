@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Alex!
 
 - 🔭 I’m currently working on my first video game!
-- 🌱 I’m currently learning Unity/C#
+- 🌱 I’m currently learning Godot 4
 - 💬 Ask me about anything!
 - 😄 Pronouns: He/Him or They/Them
 - ⚡ Fun fact: I performed my Trombone Impression at 2 professional venues!
